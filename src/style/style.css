@@ -1,0 +1,71 @@
+.outer {
+    width: 380px;
+    margin-bottom: 10px;
+}
+
+.inputBox {
+    margin: 0 10px;
+}
+
+.imgDiv {
+    float: left;
+    width: 30%;
+}
+
+.content {
+    width:65%;
+    float: left;
+    margin-left: 10px;
+}
+
+.buttonGroup {
+    clear: left; 
+    marginTop: 10%;
+}
+
+.buttonGroup button {
+    border: 0px;
+    padding: 2px 10px;
+}
+
+.contentSearch{
+    margin-bottom: 20px;
+}
+
+.listArtist {
+    height: 300px;
+    overflow-y: auto 
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.outerDiv {
+    padding: 10px;
+}
+
+.searchDiv {
+    padding: 10px;
+}
+
+.modalDuration {
+    float: right;
+    width: 30%;
+    margin-left: 10px;
+}
+
+.modalTrack {
+    float: left;
+    width: 55%;
+}
+
+.modalOuter {
+    width:100%;
+}
+
+
